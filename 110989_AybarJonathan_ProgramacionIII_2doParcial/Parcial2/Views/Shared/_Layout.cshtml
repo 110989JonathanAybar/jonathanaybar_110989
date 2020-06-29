@@ -1,17 +1,17 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - Parcial 2 Programacion III</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
-<body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
+<body style="margin-bottom: 20px; padding-bottom: 20px;padding-top: 0px;">
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color: #337ab7;border-color: #337ab7;border-bottom-width: 200px;margin-bottom: 20px;">
         <div class="container">
-            <div class="navbar-header">
+            <div style="color: #fffff0;" class="navbar-header">
                 </button>
                 @Html.ActionLink("Atras", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </div>
@@ -33,3 +33,4 @@
     @RenderSection("scripts", required: false)
 </body>
 </html>
+

@@ -14,8 +14,8 @@ namespace Parcial2.Controllers
         // GET: Socio
         public ActionResult AltaSocio()
         {
-            List<TipoDocumentoItemVM> listaTipoDocumento = AD_Socios.obtenerListaTipoDocumento();
-            List<DeporteItemVM> listaDeportes = AD_Socios.obtenerListaDeportes();
+            List<TipoDocumentoItemVM> listaTipoDocumento = AccesoDB.obtenerListaTipoDocumento();
+            List<DeporteItemVM> listaDeportes = AccesoDB.obtenerListaDeportes();
 
             List<SelectListItem> itemsTipoDocumento = listaTipoDocumento.ConvertAll(d =>
             {
@@ -49,11 +49,11 @@ namespace Parcial2.Controllers
         {
             if (ModelState.IsValid)
             {
-                bool resultado = AD_Socios.AltaSocio(modelo);
+                bool resultado = AccesoDB.AltaSocio(modelo);
                 if (resultado)
                 {
                     
-                    return RedirectToAction("ListaSocios", "Socio");
+                    return RedirectToAction("ListadoSocios", "Socio");
                 }
                 else
                 {
@@ -68,13 +68,13 @@ namespace Parcial2.Controllers
 
         public ActionResult ListadoSocios()
         {
-            List<Socio> lista = AD_Socios.obtenerListaSocios();
+            List<Socio> lista = AccesoDB.obtenerListaSocios();
             return View(lista);
         }
 
         public ActionResult Reporte()
         {
-            List<Reporte> lista = AD_Socios.obtenerReporte();
+            List<Reporte> lista = AccesoDB.obtenerReporte();
             return View(lista);
         }
     }

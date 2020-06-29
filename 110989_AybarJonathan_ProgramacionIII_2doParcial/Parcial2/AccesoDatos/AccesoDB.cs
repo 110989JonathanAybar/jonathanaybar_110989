@@ -7,12 +7,12 @@ using System.Linq;
 using System.Web;
 
 namespace Parcial2.AccesoDatos
-{
+{   
 
-    String cadenaConexion = @"Data Source=JGA_NOTEBOOK;Initial Catalog=master;Integrated Security=True";
-
-    public class AD_Socios
+    public class AccesoDB
     {
+        static String cadenaConexion = @"Data Source=JGA_NOTEBOOK;Initial Catalog=master;Integrated Security=True";
+
         public static bool AltaSocio(Socio s)
         {
             bool resultado = false;            
@@ -66,7 +66,7 @@ namespace Parcial2.AccesoDatos
             {
                 SqlCommand cmd = new SqlCommand();
 
-                string consulta = "SELECT s.Id,s.Nombre,s.Apellido,td.Nombre 'TipoDocumento',s.NroDocumento 'Nro',d.Nombre 'Deporte' FROM Socios s,Deportes d, TiposDocumentos td  WHERE s.IdTipoDocumento = d.Id AND s.IdDeporte = d.Id";
+                string consulta = "SELECT s.Id,s.Nombre,s.Apellido,td.Nombre 'TipoDocumento',s.NroDocumento 'Nro',d.Nombre 'Deporte' FROM Socios s,Deportes d, TiposDocumentos td WHERE s.IdTipoDocumento = td.Id AND s.IdDeporte = d.Id;"; 
                 cmd.Parameters.Clear();
                 
                 cmd.CommandType = System.Data.CommandType.Text;
