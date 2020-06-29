@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Parcial2.Models.Socio>
+@{
+    ViewBag.Title = "Listado de socios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <div>
+            <h4 class="text-primary">
+                Listado de socios cargados en la base de datos
+            </h4>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th class="text-center">
+                        Nombre
+                    </th>
+                    <th class="text-center">
+                        Apellido
+                    </th>
+                    <th class="text-center">
+                        Tipo documento
+                    </th>
+                    <th class="text-center">
+                        Número documento
+                    </th>
+                    <th class="text-center">
+                        Deporte
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var so in Model)
+                {
+                    <tr class="text-center">
+                        <td>
+                            @so.Nombre
+                        </td>
+                        <td>
+                            @so.Apellido
+                        </td>
+                        <td>
+                            @so.IdTipoDocumento
+                        </td>
+                        <td>
+                            @so.NroDocumento
+                        </td>
+                        <td>
+                            @so.IdDeporte
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

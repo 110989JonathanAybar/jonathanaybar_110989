@@ -1,0 +1,174 @@
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Parcial2.dll.config
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Parcial2.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Parcial2.pdb
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\csc.exe
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\csc.exe.config
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\csc.rsp
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\csi.exe
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\csi.exe.config
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\csi.rsp
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.AppContext.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Console.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.Compression.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.Pipes.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.AccessControl.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Claims.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.ValueTuple.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Xml.XPath.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\vbc.exe
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\vbc.exe.config
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\vbc.rsp
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\VBCSCompiler.exe
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Antlr3.Runtime.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Newtonsoft.Json.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.Helpers.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.Mvc.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.Optimization.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.Razor.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.Deployment.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.Razor.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\WebGrease.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.Helpers.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.Mvc.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.Optimization.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.Razor.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.Deployment.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.Razor.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Newtonsoft.Json.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Antlr3.Runtime.pdb
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Helpers.resources.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Mvc.resources.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Optimization.resources.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Razor.resources.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\es\System.Web.WebPages.resources.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CopyComplete
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.dll
+D:\Mis documentos\Facultad\Segundo año\Programación III\Proyectos html\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Parcial2.dll.config
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Parcial2.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Parcial2.pdb
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\csc.exe
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\csc.exe.config
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\csc.rsp
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\csi.exe
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\csi.exe.config
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\csi.rsp
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.AppContext.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Console.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\vbc.exe
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\vbc.exe.config
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\vbc.rsp
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Antlr3.Runtime.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Newtonsoft.Json.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Helpers.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Mvc.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Optimization.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Razor.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\WebGrease.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Helpers.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Mvc.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Optimization.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Razor.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Newtonsoft.Json.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Antlr3.Runtime.pdb
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Razor.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CopyComplete
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Net.Http.Formatting.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Http.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Http.WebHost.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Net.Http.Formatting.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Http.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\System.Web.Http.WebHost.xml
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Http.resources.dll
+C:\Users\Bangho\Documents\Facultad\Parcial2\Parcial2\Parcial2\bin\es\System.Web.Http.WebHost.resources.dll

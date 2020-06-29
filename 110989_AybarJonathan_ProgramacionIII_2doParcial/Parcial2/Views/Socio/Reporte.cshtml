@@ -1,0 +1,50 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewBag.Title = "Reporte de deportes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <div>
+            <h4 class="text-primary">
+                Listado de deportes participados por Socios
+            </h4>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th class="text-center">
+                        Deporte
+                    </th>
+                    <th class="text-center">
+                        Cantidad de Socios Inscriptos
+                    </th>
+                <tr>
+            </thead>
+            <tbody>
+                @foreach (var so in Model)
+                {
+                    <tr class="text-center">
+                        <td>
+                            @so.Deporte
+                        </td>
+                        <td>
+                            @so.CantidadSocios
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
